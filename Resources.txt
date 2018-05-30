@@ -1,0 +1,3 @@
+https://create.arduino.cc/projecthub/hackershack/make-an-autonomous-follow-me-cooler-7ca8bc?ref=tag&ref_id=automation&offset=6
+
+https://halckemy.s3.amazonaws.com/uploads/attachments/309108/cooler_diagram_ai7Q6UO55S.png
